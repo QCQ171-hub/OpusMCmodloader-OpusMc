@@ -1,0 +1,12 @@
+{
+  "_说明": "在此控制每个模组：enabled 开关(默认 true)，priority 越大越先加载，config 覆盖模组 manifest 里的 config。",
+  "mods": {
+    "example-mod": {
+      "enabled": true,
+      "priority": 0,
+      "config": {
+        "greeting": "喵～OpusMC 模组加载器已就绪"
+      }
+    }
+  }
+}

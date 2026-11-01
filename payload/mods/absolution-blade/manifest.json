@@ -1,0 +1,11 @@
+{
+  "id": "absolution-blade",
+  "name": "绝对秒杀之剑",
+  "version": "1.0.0",
+  "author": "鲸鱼娘·大肥鱼",
+  "description": "OPUS 级近战武器：手持它左键命中任何生物即「一击必杀」——无视护甲、无敌帧、火焰免疫、难度缩放，连末影龙等分部位 BOSS 也不例外；永不磨损。附魔光泽。合成配方见游戏内。",
+  "priority": 10,
+  "depends": [],
+  "entry": ["main.js"],
+  "config": {}
+}
